@@ -1,0 +1,170 @@
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+  }
+.logo{
+    height: 48px;
+    width: 132px;
+    left: 300px;
+position: absolute;
+    
+}
+.container{
+    position: absolute;
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+top: 10px;
+position: relative;
+width: 1280px;
+height: 720px;
+
+background: #F5F5F5;
+}
+.avatar{
+    position: absolute;
+    box-sizing: border-box;
+left: 1540px;
+width: 40px;
+height: 40px;
+top: 10px;
+background: url(avatar_sample-507d2647445c70e57a7c479e904c37dedfaefbdde0b9bdedcccd63e8fc7faa97.png);
+border: 1px solid #F5F5F5;
+border-radius: 32px;
+order: 0;
+flex-grow: 0;
+}
+.qr{
+    top: 50px;
+}
+.serdce{
+position: absolute;
+top:155px ;
+left: 175px;
+width:16,67px ;
+height: 15,29px;
+}
+.hclass{
+    position: absolute;
+top: 150px;
+left: 200px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+letter-spacing: 0.15px;
+}
+.secsion{
+    position: absolute;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 12px;
+top: 200px;
+width: 950px;
+height: 324px;
+left: 170px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+.naz{
+    position: absolute;
+    left: 76px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+}
+.st{
+    position: absolute;
+    left: 748px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+}
+.pbox1{
+    position: absolute;
+    top: 60px;
+    left: 80px;
+}
+.pbox2{
+    position: absolute;
+    top: 125px;
+    left: 80px;
+
+}.pbox3{
+    position: absolute;
+    top: 185px;
+    left: 80px;
+
+    
+}.pbox4{
+    position: absolute;
+    top: 240px;
+    left: 80px;
+
+}.pbox5{
+    position: absolute;
+    top: 290px;
+    left: 80px;
+
+}
+.imgbox1{
+    position: absolute;
+top: 55px;
+}
+.imgbox2{
+    position: absolute;
+    top: 120px; 
+}
+.imgbox3{
+    position: absolute;
+    top: 175px; 
+}
+.imgbox4{
+    position: absolute;
+    top: 230px;
+}
+.imgbox5{
+    position: absolute;
+    top: 280px;
+}
+.btnt{
+    position: absolute;
+    left: 925px;
+    top: 480px;
+}
+.btnt1{
+    position: absolute;
+    left: 756px;
+    top: 50px;
+}
+.btnt2{
+    position: absolute;
+    left: 756px;
+    top: 110px;
+}
+.btnt3{
+    position: absolute;
+    left: 756px;
+    top: 170px;
+}
+.btnt4{
+    position: absolute;
+    left: 756px;
+    top: 225px;
+}
