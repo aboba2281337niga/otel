@@ -1,10 +1,189 @@
-.leon{
+.pH{
     position: absolute;
-    top: 100px;
-    left: -100px;
+    top: 50px;
+    left: 1px;
 }
-.spayk{
+
+.mettler{
     position: absolute;
-    top: 120px;
-    left: 850px; 
+    top: 20px;
+    left: 1px;
+}
+.rabota{
+    position: absolute;
+    top: 130px;
+    left: 1px;
+}
+.PDF{
+    position: absolute;
+    width: 189px;
+height: 40px;
+    left: 1090px;
+    top: 1px;
+}
+.kalendar{
+    position: absolute;
+    width: 189px;
+    height: 40px;
+    top: 220px;
+    left: 1px;
+}
+.kalendar2{
+    position: absolute;
+    width: 189px;
+    height: 40px;
+    top: 220px;
+    left: 220px;
+}
+.radio1{
+    position: absolute;
+    top: 290px;
+    left: 1px;
+}
+.radio2{
+    position: absolute;
+    top: 290px;
+    left: 230px;
+}
+.nach{
+    position: absolute;
+    top: 380px;
+    left: 1px;
+}
+.tip{
+    position: absolute;
+    top: 380px;
+    left: 200px;
+}
+.rab{
+    position: absolute;
+    top: 380px;
+    left: 350px;  
+}
+.rez{
+    position: absolute;
+    top: 380px;
+    left: 900px;  
+}
+.polz{
+    position: absolute;
+    top: 380px;
+    left: 1100px; 
+}
+.nol{
+    position: absolute;
+    top: 450px;
+    left: 30px;
+}
+.vrab{
+    position: absolute;
+    top: 450px;
+    left: 200px; 
+}
+.izm{
+    position: absolute;
+    top: 480px;
+    left: 200px;  
+}
+.obraz{
+    position: absolute;
+    top: 450px;
+    left: 350px; 
+    
+}
+.dv{
+    position: absolute;
+    top: 600px;
+    left: 30px;
+}
+.vrabo{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+.kalib{
+    position: absolute;
+    top: 630px;
+    left: 200px; 
+}
+.nom{
+    position: absolute;
+    top: 600px;
+    left: 350px; 
+    width: 200px;
+    height: 100px;    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100px;
+    font-size: 14px;    
+    letter-spacing: 0.25px;    
+    color: rgba(0, 0, 0, 0.6);    
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+.pro{
+    position: absolute;
+    top: 600px;
+    left: 900px;  
+    width: 150px;
+    height: 100px;    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100px;
+    font-size: 14px;    
+    letter-spacing: 0.25px;    
+    color: rgba(0, 0, 0, 0.6);    
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+.mor{
+    position: absolute;
+    top: 450px;
+    left: 1100px; 
+}
+.mo{
+    position: absolute;
+    top: 600px;
+    left: 1100px; 
+}
+.linia4{
+    position: absolute;
+height: 1px;
+left: 0%;
+right: 0%;
+top:430px;
+
+/* Surface overlay */
+
+background: rgba(33, 33, 33, 0.08);
+mix-blend-mode: normal;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.linia3{
+    position: absolute;
+height: 1px;
+left: 0%;
+right: 0%;
+top:580px;
+
+/* Surface overlay */
+
+background: rgba(33, 33, 33, 0.08);
+mix-blend-mode: normal;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+.linia2{
+    position: absolute;
+height: 1px;
+left: 0%;
+right: 0%;
+top:90px;
+
+/* Surface overlay */
+
+background: rgba(33, 33, 33, 0.08);
+mix-blend-mode: normal;
+transform: matrix(1, 0, 0, -1, 0, 0);
 }
